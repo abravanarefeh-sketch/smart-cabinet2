@@ -1,0 +1,7 @@
+{
+  "name": "طراح هوشمند کابینت (Smart Cabinet Designer)",
+  "description": "سیستم تخصصی طراحی آشپزخانه و تولید نقشه اجرایی کابینت با استفاده از هوش مصنوعی",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
